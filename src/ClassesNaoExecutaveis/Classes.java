@@ -27,7 +27,7 @@ public class Classes {
 
         //chamando a variável e fazendo o carinho no cachorro
         System.out.println(cachorro.interagir("carinho"));
-
+        System.out.println("PRONTO");
 
     }
 }
