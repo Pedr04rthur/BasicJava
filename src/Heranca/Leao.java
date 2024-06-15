@@ -7,7 +7,7 @@ public class Leao extends Animal{
     }
 
     @Override
-    void soar(){
+    public void soar(){
         System.out.println("Leão Rugindo");
     }
 }

@@ -12,7 +12,7 @@ public class Papagaio extends Animal {
     }
 
     @Override
-    void soar(){
+    public void soar(){
         System.out.println("Papagaio soando");
     }
 }
